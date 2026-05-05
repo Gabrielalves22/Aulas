@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\aula-1\\Aula-1.1\\Aula-1.1.csproj": {}
+    "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\Aula-1\\Aula-1.1\\Aula-1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\aula-1\\Aula-1.1\\Aula-1.1.csproj": {
+    "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\Aula-1\\Aula-1.1\\Aula-1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\aula-1\\Aula-1.1\\Aula-1.1.csproj",
+        "projectUniqueName": "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\Aula-1\\Aula-1.1\\Aula-1.1.csproj",
         "projectName": "Aula-1.1",
-        "projectPath": "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\aula-1\\Aula-1.1\\Aula-1.1.csproj",
+        "projectPath": "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\Aula-1\\Aula-1.1\\Aula-1.1.csproj",
         "packagesPath": "C:\\Users\\SEDUC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\aula-1\\Aula-1.1\\obj\\",
+        "outputPath": "C:\\Users\\SEDUC\\OneDrive\\Área de Trabalho\\Progamação\\projeto-de-estudos C# e Dotnet\\Aula-1\\Aula-1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SEDUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
