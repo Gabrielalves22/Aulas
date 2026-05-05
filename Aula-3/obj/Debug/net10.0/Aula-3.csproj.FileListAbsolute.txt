@@ -1,0 +1,15 @@
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\bin\Debug\net10.0\Aula-3.exe
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\bin\Debug\net10.0\Aula-3.deps.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\bin\Debug\net10.0\Aula-3.runtimeconfig.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\bin\Debug\net10.0\Aula-3.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\bin\Debug\net10.0\Aula-3.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.AssemblyInfoInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.AssemblyInfo.cs
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.csproj.CoreCompileInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.sourcelink.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\refint\Aula-3.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\Aula-3.genruntimeconfig.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-3\obj\Debug\net10.0\ref\Aula-3.dll
