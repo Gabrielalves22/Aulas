@@ -1,0 +1,15 @@
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.AssemblyInfoInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.AssemblyInfo.cs
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.csproj.CoreCompileInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.sourcelink.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\bin\Debug\net10.0\Aula-5.exe
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\bin\Debug\net10.0\Aula-5.deps.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\bin\Debug\net10.0\Aula-5.runtimeconfig.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\bin\Debug\net10.0\Aula-5.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\bin\Debug\net10.0\Aula-5.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\refint\Aula-5.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\Aula-5.genruntimeconfig.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-5\obj\Debug\net10.0\ref\Aula-5.dll
