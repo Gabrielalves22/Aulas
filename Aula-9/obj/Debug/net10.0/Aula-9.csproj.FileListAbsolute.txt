@@ -1,0 +1,15 @@
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.AssemblyInfoInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.AssemblyInfo.cs
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.csproj.CoreCompileInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.sourcelink.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\bin\Debug\net10.0\Aula-9.exe
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\bin\Debug\net10.0\Aula-9.deps.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\bin\Debug\net10.0\Aula-9.runtimeconfig.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\bin\Debug\net10.0\Aula-9.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\bin\Debug\net10.0\Aula-9.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\refint\Aula-9.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\Aula-9.genruntimeconfig.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulas\Aula-9\obj\Debug\net10.0\ref\Aula-9.dll
